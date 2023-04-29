@@ -1,10 +1,11 @@
 # Legal-Clause-Classification
 
-In Text Classificcation
-SVM
-Decision Tree
-Random Forest
-Multinomal Naive Bayes 
+In Text Classificcation:
+
+SVM, 
+Decision Tree, 
+Random Forest, 
+Multinomal Naive Bayes.
 
 These models are trained from scratch and used for classification.
 
